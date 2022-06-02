@@ -15,8 +15,7 @@ Whilst the [TCGA SpliceSeq website](https://bioinformatics.mdanderson.org/TCGASp
 
 Comparison of Percentage Spliced In (PSI) values for Normal versus Tumour tissue in samples from TCGA SpliceSeq data.
 
-Example:
+Example: For this example, I have generated a plot to show the different usage of an alternative promoter (AP) exon in the VAV3 gene in Squamous Cell Lung Cancer (LUSC). You can see that this AP exon 18.1 is significantly more included in VAV3 mRNA in tumour samples compared to normal tissue.
 
+![VAV3](https://user-images.githubusercontent.com/18528125/171668239-1c0c3a70-d610-4bc3-b1b1-700b28abe651.png)
 
-
-![LUSC_BIN2](https://user-images.githubusercontent.com/18528125/171471641-c5463d46-119b-4b86-b0b0-fc1d70320422.png)
