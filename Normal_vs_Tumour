@@ -17,9 +17,9 @@ library(data.table)
 # number of exon/intron of interest
 
 input = "PSI_download_LUSC.txt"
-gene = "BIN2"
-event_type = "ES"
-location = "11"
+gene = "VAV3"
+event_type = "AP"
+location = "18.1"
 
 # Import your file as a dataframe
 df = read_tsv(input, col_names = TRUE)
